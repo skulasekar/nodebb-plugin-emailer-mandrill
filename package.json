@@ -13,7 +13,10 @@
     "emailer",
     "mandrill"
   ],
-  "author": "Santhosh Kulasekar <santhosh.kulasekar@gmail.com>",
+  "author": {
+    "name": "skulasekar",
+    "email": "santhosh.kulasekar@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/akhoury/nodebb-plugin-emailer-mandrill/issues"
