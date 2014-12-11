@@ -8,3 +8,6 @@ To customise options for this plugin, please consult the "Emailer (Mandrill)" pa
 ## Installation
 
     npm install nodebb-plugin-emailer-mandrill
+
+## INFO
+    This is a fork from the mail repo to make it work with 0.5.2
